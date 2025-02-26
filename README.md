@@ -42,7 +42,7 @@ I’m **upskilling**, diving into new interests, and **loving every challenge** 
 ---
 
 ### 🚀 Let's Connect!  
-[![X](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/aishtomer)  
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aishtomer)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aishtomer)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=codepen)](https://aishtomer.github.io/)  
 
