@@ -46,7 +46,3 @@ I’m **upskilling**, diving into new interests, and **loving every challenge** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aishtomer)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=codepen)](https://aishtomer.github.io/)  
 
----
-
-✨ **Excited to connect with all of you—let’s make this journey epic!** 🚀🔥
-
